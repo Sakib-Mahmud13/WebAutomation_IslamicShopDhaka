@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="10" total="16" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-22T14:35:42Z" name="ORANGE" finished-at="2023-11-22T14:39:20Z" duration-ms="218200">
+    <groups>
+    </groups>
+    <test started-at="2023-11-22T14:35:42Z" name="Test" finished-at="2023-11-22T14:39:20Z" duration-ms="218200">
+      <class name="com.it.bd.tests.CheckOutTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.it.bd.tests.CheckOutTest@4ef37659]" started-at="2023-11-22T20:38:12Z" name="start" finished-at="2023-11-22T20:38:30Z" duration-ms="17630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="viewTest()[pri:0, instance:com.it.bd.tests.CheckOutTest@4ef37659]" started-at="2023-11-22T20:38:30Z" name="viewTest" finished-at="2023-11-22T20:39:20Z" duration-ms="50405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewTest -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.it.bd.tests.CheckOutTest@4ef37659]" started-at="2023-11-22T20:39:20Z" name="report" finished-at="2023-11-22T20:39:20Z" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+      </class> <!-- com.it.bd.tests.CheckOutTest -->
+      <class name="com.it.bd.tests.ClickOderTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.it.bd.tests.ClickOderTest@152aa092]" started-at="2023-11-22T20:36:59Z" name="start" finished-at="2023-11-22T20:37:16Z" duration-ms="16724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="viewTest()[pri:0, instance:com.it.bd.tests.ClickOderTest@152aa092]" started-at="2023-11-22T20:37:16Z" name="viewTest" finished-at="2023-11-22T20:37:40Z" duration-ms="24410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewTest -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.it.bd.tests.ClickOderTest@152aa092]" started-at="2023-11-22T20:37:40Z" name="report" finished-at="2023-11-22T20:37:40Z" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+      </class> <!-- com.it.bd.tests.ClickOderTest -->
+      <class name="com.it.bd.tests.ViewTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.it.bd.tests.ViewTest@524d6d96]" started-at="2023-11-22T20:36:21Z" name="start" finished-at="2023-11-22T20:36:44Z" duration-ms="23148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="viewTest()[pri:0, instance:com.it.bd.tests.ViewTest@524d6d96]" started-at="2023-11-22T20:36:44Z" name="viewTest" finished-at="2023-11-22T20:36:59Z" duration-ms="14553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewTest -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.it.bd.tests.ViewTest@524d6d96]" started-at="2023-11-22T20:36:59Z" name="report" finished-at="2023-11-22T20:36:59Z" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+      </class> <!-- com.it.bd.tests.ViewTest -->
+      <class name="com.it.bd.tests.CategoryTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.it.bd.tests.CategoryTest@2525ff7e]" started-at="2023-11-22T20:36:09Z" name="start" finished-at="2023-11-22T20:36:09Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="categoryTest()[pri:0, instance:com.it.bd.tests.CategoryTest@2525ff7e]" started-at="2023-11-22T20:36:09Z" name="categoryTest" finished-at="2023-11-22T20:36:21Z" duration-ms="12397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- categoryTest -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.it.bd.tests.CategoryTest@2525ff7e]" started-at="2023-11-22T20:36:21Z" name="report" finished-at="2023-11-22T20:36:21Z" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+      </class> <!-- com.it.bd.tests.CategoryTest -->
+      <class name="com.it.bd.tests.VisitSiteTest">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:com.it.bd.tests.VisitSiteTest@61d6015a]" started-at="2023-11-22T20:35:40Z" name="startBrowser" finished-at="2023-11-22T20:35:42Z" duration-ms="1722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method is-config="true" signature="start()[pri:0, instance:com.it.bd.tests.VisitSiteTest@61d6015a]" started-at="2023-11-22T20:35:42Z" name="start" finished-at="2023-11-22T20:35:55Z" duration-ms="13239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="visitsiteTest()[pri:0, instance:com.it.bd.tests.VisitSiteTest@61d6015a]" started-at="2023-11-22T20:35:55Z" name="visitsiteTest" finished-at="2023-11-22T20:36:08Z" duration-ms="12983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visitsiteTest -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.it.bd.tests.VisitSiteTest@61d6015a]" started-at="2023-11-22T20:36:08Z" name="report" finished-at="2023-11-22T20:36:09Z" duration-ms="524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.it.bd.tests.VisitSiteTest@61d6015a]" started-at="2023-11-22T20:39:20Z" name="close" finished-at="2023-11-22T20:39:20Z" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.it.bd.tests.VisitSiteTest -->
+      <class name="com.it.bd.tests.CartTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.it.bd.tests.CartTest@44a7bfbc]" started-at="2023-11-22T20:37:40Z" name="start" finished-at="2023-11-22T20:37:58Z" duration-ms="17908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="viewTest()[pri:0, instance:com.it.bd.tests.CartTest@44a7bfbc]" started-at="2023-11-22T20:37:58Z" name="viewTest" finished-at="2023-11-22T20:38:12Z" duration-ms="13331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewTest -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.it.bd.tests.CartTest@44a7bfbc]" started-at="2023-11-22T20:38:12Z" name="report" finished-at="2023-11-22T20:38:12Z" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+      </class> <!-- com.it.bd.tests.CartTest -->
+    </test> <!-- Test -->
+  </suite> <!-- ORANGE -->
+</testng-results>

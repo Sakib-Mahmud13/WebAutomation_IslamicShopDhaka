@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ORANGE]" guice-stage="DEVELOPMENT">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.it.bd.tests.CheckOutTest">
+        <methods>
+          <include name="viewTest"/>
+          <include name="report"/>
+          <include name="start"/>
+          <include name="startBrowser"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- com.it.bd.tests.CheckOutTest -->
+      <class name="com.it.bd.tests.CartTest">
+        <methods>
+          <include name="report"/>
+          <include name="start"/>
+          <include name="viewTest"/>
+          <include name="startBrowser"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- com.it.bd.tests.CartTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [ORANGE] -->

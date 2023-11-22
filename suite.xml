@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ORANGE">
+	<!-- -->
+	<test name="Test">
+		<classes>
+			<class name="com.it.bd.tests.VisitSiteTest" />
+			<class name="com.it.bd.tests.CategoryTest" />
+			<class name="com.it.bd.tests.ViewTest" />
+			<class name="com.it.bd.tests.ClickOderTest" />
+			<class name="com.it.bd.tests.CartTest" />
+			<class name="com.it.bd.tests.CheckOutTest" />
+			
+		</classes>
+	</test>
+	
+</suite>
