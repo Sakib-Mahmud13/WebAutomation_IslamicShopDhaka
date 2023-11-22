@@ -84,10 +84,4 @@ These steps are executed:
 
 To run the test cases, use the Test classes in the `Tests` package. Each class corresponds to a different feature.
 
-### Run Scrolling Feature
 
-For example, to run the scrolling feature:
-
-```java
-Class1_Scrolling scrolling = new Class1_Scrolling(driver);
-scrolling.Scroll();
