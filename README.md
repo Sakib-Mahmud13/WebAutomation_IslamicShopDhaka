@@ -50,7 +50,7 @@ To get started with this project, follow these steps:
 - Language: Java
 - Framework: TestNG.
 ### Pre Requisites
-- Open/install Java JDK 14 version on your PC
+- Open/install Java JDK 11 version on your PC
 - Install Maven on your PC
 - Install TestNG on your IDE
 - Install Eclipse/STS or any other IDE
