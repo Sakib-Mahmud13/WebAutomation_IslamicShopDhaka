@@ -1,4 +1,4 @@
-## Web_Automation_Project_with_Page_Object_Model_(PMO)_Selenium_&_TestNG
+## Web_Automation_Project_Selenium_&_TestNG
 Automate web interactions with islamicshopdk.com using Java. This project demonstrates the automation of various features of the popular online book retailer, selecting category, veiws anybook, any book  click the oder, shopping cart interactions,book cashout and more
 
 
