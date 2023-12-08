@@ -20,7 +20,7 @@ Automate web interactions with islamicshopdk.com using Java. This project demons
 
 ## 🚀 Introduction
 
-Welcome to the Web Automation project for [https://islamicshopdk.com/). This project showcases web automation using Java for the popular online book retailer, boibazar.com.
+Welcome to the Web Automation project for [https://islamicshopdk.com/). This project showcases web automation using Java for the popular online book retailer, islamicshopdk.com.
 
 ## ✨ Features
 
